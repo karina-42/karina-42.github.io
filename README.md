@@ -11,6 +11,7 @@ This is an informal code review of the original artifact as created and submitte
 [![Code Review Video](https://img.youtube.com/vi/9m57GMos_Q8/maxresdefault.jpg)](https://www.youtube.com/watch?v=9m57GMos_Q8)
 
 ## Artifacts
+The images link to the Narratives
 
 ### Original Artifact
 
@@ -18,4 +19,9 @@ This is an informal code review of the original artifact as created and submitte
 
 This is the original artifact I worked on for all three enhancements. It was created in IT-140 in my first term at Southern New Hampshire University. It is a text-based game played in the console. It is written in procedural code in Python. Users type commands starting with "go" or "get" to go in a certain direction to change rooms and to get items in those rooms. When they get to the room with the villain, el Chupacabras, if players have all the items in the house, they win the game, otherwise they lose.
 
-TODO: Include original and enhanced artifact, enhance the artifact in Software Design and Engineering, Algorithms and Data Structures, and Databases categories
+### Enhancement One - Software Design and Engineering
+
+[![El Chupacabras Enhancement One](https://i.postimg.cc/QxmPq80f/Screenshot-2025-10-03-090410.png)](https://karina-42.github.io/enhancement-one)
+
+
+TODO: Include enhanced artifact, Algorithms and Data Structures, and Databases categories
