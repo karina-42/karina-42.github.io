@@ -21,5 +21,9 @@ The images link to the Narratives
 
 [![El Chupacabras Enhancement One](https://i.postimg.cc/QxmPq80f/Screenshot-2025-10-03-090410.png)](https://karina-42.github.io/enhancement-one)
 
+### Enhancement Two - Algorithms and Data Structures
 
-TODO: Include enhanced artifact, Algorithms and Data Structures, and Databases categories
+[![El Chupacabras Enhancement Two](https://i.postimg.cc/DwcS7Bbd/Screenshot-2025-10-12-162256.png)](https://karina-42.github.io/enhancement-two)
+
+
+TODO: Include enhanced artifact in the Databases category
