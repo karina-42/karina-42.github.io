@@ -2,7 +2,7 @@
 
 ### The image links to the repository
 
-[![Enhancement Three](https://i.postimg.cc/vZcFG453/Screenshot-2025-10-18-110537.png)](https://postimg.cc/LJK0T6C1)
+[![Enhancement Three](https://i.postimg.cc/vZcFG453/Screenshot-2025-10-18-110537.png)](https://github.com/karina-42/elChupacabras)
 
 ## Narrative
 
