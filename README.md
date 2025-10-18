@@ -25,5 +25,6 @@ The images link to the Narratives
 
 [![El Chupacabras Enhancement Two](https://i.postimg.cc/DwcS7Bbd/Screenshot-2025-10-12-162256.png)](https://karina-42.github.io/enhancement-two)
 
+### Enhancement Three - Databases
 
-TODO: Include enhanced artifact in the Databases category
+[![El Chupacabras Enhancement Three](https://i.postimg.cc/pXVM1GT6/Screenshot-2025-10-18-110537.png)](https://karina-42.github.io/enhancement-three)
